@@ -252,7 +252,7 @@ const Hero = () => {
               </motion.div>
 
               <ResumeButton href={Bio.resume} target="_blank">
-                Check R
+                Check My CV
               </ResumeButton>
             </HeroLeftContainer>
             <HeroRightContainer>
