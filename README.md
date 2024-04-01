@@ -2,8 +2,6 @@
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
 ### Weblink: [Live Website](https://main--comfy-creponne-b9d4c3.netlify.app/)
-## Some Images:
-
 
 
 ## Table of Contents
