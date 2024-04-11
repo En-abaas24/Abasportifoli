@@ -3,6 +3,7 @@ import { Link as LinkR } from "react-router-dom";
 import styled, { useTheme } from "styled-components";
 import { Bio } from "../date/constants.jsx";
 import { MenuRounded } from "@mui/icons-material";
+import Alert from '@mui/material/Alert';
 
 const Nav = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -139,9 +140,10 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to="/">
-          <ColorText>&lt;</ColorText>Abaas
-          <div style={{ color: theme.primary }}>/</div>Muuse
-          <ColorText>&gt;</ColorText>
+          <ColorText style={{height:20}}>[</ColorText> Abaas <br />عباس 
+          <div style={{ color: theme.primary }}>/<br/>/</div>Muuse <br />موسى
+          <ColorText style={{ height:35}}>]</ColorText>
+          
         </NavLogo>
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>
@@ -191,6 +193,8 @@ const Navbar = () => {
             Github Profile
           </GithubButton>
         </ButtonContainer>
+
+
       </NavbarContainer>
     </Nav>
   );

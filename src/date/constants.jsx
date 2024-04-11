@@ -13,7 +13,7 @@ export const Bio = {
     resume:
       "https://drive.google.com/file/d/1go6DvMWZdIs90EvCwKtBIuve1RwHk-4w/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/abaas-muuse-ba0903301/",
-    twitter: "https://github.com/En-abaas24/images/blob/abas/Untitled-1.png?raw=true",
+    twitter: "https://twitter.com/Abaas94270420",
     Whats: "https://www.instagram.com/rishav_chanda/",
     facebook: "https://www.facebook.com/profile.php?id=100068820384491",
   };

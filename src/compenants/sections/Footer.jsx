@@ -108,8 +108,7 @@ const Footer = () => {
           <SocialMediaIcon href={Bio.linkedin} target="display">
             <LinkedInIcon />
           </SocialMediaIcon>
-         
-  
+
 
         </SocialMediaIcons>
         <Copyright>&copy; 2024 Abaas muuse. All rights reserved.</Copyright>

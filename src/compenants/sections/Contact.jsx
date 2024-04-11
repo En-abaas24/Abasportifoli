@@ -161,8 +161,7 @@ const Contact = () => {
           <ContactInputMessage placeholder="Message" rows="4" name="message" />
           <ContactButton type="submit" value="Send" />
         </ContactForm>
-       
-
+                
 <Snackbar open={open} autoHideDuration={6000} onClose={()=>setOpen(true)}>
   <Alert
     onClose={()=>setOpen(true)}
@@ -173,6 +172,8 @@ const Contact = () => {
     This is a success waa ii soo dirtay fariintaada!
   </Alert>
 </Snackbar>
+  
+
       </Wrapper>
     </Container>
   )
