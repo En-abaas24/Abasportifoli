@@ -140,9 +140,9 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to="/">
-        <ColorText>&le;</ColorText>Abaas
+          <ColorText>&lt;</ColorText>Abaas
           <div style={{ color: theme.primary }}>/</div>Muuse
-          <ColorText>&ge;</ColorTextg>
+          <ColorText>&gt;</ColorText>
         </NavLogo>
 
         <MobileIcon onClick={() => setIsOpen(!isOpen)}>
