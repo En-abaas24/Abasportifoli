@@ -9,7 +9,7 @@ export const Bio = {
     ],
     description:
       "I am a motivated and proactive person, always willing to take on new challenges. With a passion for learning, I am committed to delivering high quality results. With a positive attitude and a growth mindset, I am ready to make meaningful contributions and achieve great results,.",
-    github: "https://github.com/En-abaas24",
+    github: "https://github.com/abaasmuuse",
     resume:
       "https://drive.google.com/file/d/1go6DvMWZdIs90EvCwKtBIuve1RwHk-4w/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/abaas-muuse-ba0903301/",
